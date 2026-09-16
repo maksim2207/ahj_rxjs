@@ -1,8 +1,8 @@
 # Домашнее задание к занятию "11. RxJS"
 
-[![Build status](https://github.com/maksim2207/anj_rxjs/actions/workflows/web.yml/badge.svg)](https://github.com/maksim2207/anj_rxjs/actions/workflows/web.yml)
+[![Build status](https://github.com/maksim2207/ahj_rxjs/actions/workflows/web.yml/badge.svg)](https://github.com/maksim2207/ahj_rxjs/actions/workflows/web.yml)
 
-**Демо:** [https://maksim2207.github.io/anj_rxjs/](https://maksim2207.github.io/anj_rxjs/)
+**Демо:** [https://maksim2207.github.io/ahj_rxjs/](https://maksim2207.github.io/ahj_rxjs/)
 
 Правила сдачи задания:
 
